@@ -1,0 +1,13 @@
+.textboxTop{
+    background-color: rgb(233, 107, 107);
+    display: flex;
+    justify-content: center;  
+}
+
+.textboxEnd{
+    background-color: rgb(40, 148, 158);
+}
+
+.textboxMiddle{
+    background-color: gray
+}
